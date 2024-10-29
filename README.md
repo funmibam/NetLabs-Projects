@@ -7,3 +7,6 @@ This repository contains various labs from my NetLab+ coursework.
 - **8.3.1.3 Lab** - Install a Printer in Windows
 - **8.4.1.3 Lab** - Share a Printer in Windows
 - **9.1.2.5 Lab** - Install Linux in a Virtual Machine and Explore the GUI
+
+## Resources
+- [NetLab Labs Summary PDF](./your_pdf_file.pdf)
