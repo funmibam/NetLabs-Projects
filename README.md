@@ -9,4 +9,4 @@ This repository contains various labs from my NetLab+ coursework.
 - **9.1.2.5 Lab** - Install Linux in a Virtual Machine and Explore the GUI
 
 ## Resources
-- [NetLab Labs Summary PDF](./your_pdf_file.pdf)
+- [NetLab Labs Summary PDF](./NetLab_Labs_Summary.pdf..pdf)
