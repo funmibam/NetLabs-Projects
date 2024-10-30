@@ -18,5 +18,5 @@ This repository contains various labs from my NetLab+ coursework, covering essen
    *Overview:* This lab introduces Linux in a virtualized environment. It involves installing Linux on a VM, exploring the GUI, and understanding basic navigation and resource management in Linux.
 
 ## Resources
-- [NetLab Labs Summary PDF](./NetLab_Labs_Summary.pdf)  
+- [NetLab Labs Summary PDF](./NetLab_Labs_Summary.pdf..pdf )  
    This PDF contains detailed summaries of each lab, including objectives, key tasks, and learning outcomes.
